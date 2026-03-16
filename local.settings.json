@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_URL": "https://azure-openai-777.cognitiveservices.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2023-05-15",
+    "OPENAI_API_KEY": "BdGvP6w8bZGx93nqXekCCiHMJLCBuGRayntL50xd8UZsjmIMcFk8JQQJ99CCACNns7RXJ3w3AAAAACOGUlkv",
+    "DB_HOST": "postgre777.postgres.database.azure.com",
+    "DB_PORT": "5432",
+    "DB_NAME": "postgres",
+    "DB_USER": "jungkwan",
+    "DB_PASSWORD": "rjd13038!!!!!"
+  }
+}

@@ -1,0 +1,4 @@
+azure-functions
+PyMuPDF
+requests
+psycopg2-binary
